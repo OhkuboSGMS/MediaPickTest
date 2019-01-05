@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediaPickTest</string>
+    <string name="action_settings">Settings</string>
+
+
+    <plurals name="error_over_count">
+        <item quantity="one">You can only select one media file</item>
+        <item quantity="many">You can only select up to %1$d media files</item>
+    </plurals>
+</resources>
